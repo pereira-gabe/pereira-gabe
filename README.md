@@ -8,6 +8,7 @@ Currently working on side projects.<br>
 
 ## Interests
 - Computer Architecture and Low-Level Programming (C/C++/Assembly)
+- Reverse engineering
 - Python
 - Competitive Programming
 - Machine Learning
