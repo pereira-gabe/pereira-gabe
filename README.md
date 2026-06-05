@@ -1,9 +1,9 @@
 # Hadrian Gabriel Pereira
 
-21-year-old programmer based in Brazil <br>
-Graduating in Computer Science at Federal University of São Carlos (UFSCar) <br>
-Computer Technician from the Federal Institute of São Paulo (IFSP) <br>
-Currently working on side projects. <br>
+21-year-old programmer based in Brazil<br>
+Graduating in Computer Science at Federal University of São Carlos (UFSCar) [2025 - 2030(expected)]<br>
+Computer Technician from the Federal Institute of São Paulo (IFSP) [2022 - 2024]<br>
+Currently working on side projects.<br>
 
 ---
 
