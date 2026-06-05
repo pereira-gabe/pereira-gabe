@@ -12,6 +12,7 @@ Currently working on side projects.<br>
 - Python
 - Competitive Programming
 - Machine Learning
+- Linux
 - Full-Stack Development
 - Interpreters and Compilers
 - Open Source Projects
