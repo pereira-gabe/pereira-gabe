@@ -21,7 +21,8 @@ Currently working on side projects.<br>
 
 ## Currently Learning / Reading
 - Back-End Development using FastAPI and PostgreSQL
-- Rust Programming Language
+- Rust 
+- Python
 - RISC-V Architecture
 - Compiler and Interpreter Programming
 - Operating Systems (*Operating Systems: Design and Implementation*, 2nd Ed. - Andrew S. Tanenbaum & Albert S. Woodhull - PT-BR Version)
