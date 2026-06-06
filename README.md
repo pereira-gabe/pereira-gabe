@@ -1,6 +1,5 @@
 # Hadrian Gabriel Pereira
 
-21-year-old programmer based in Brazil<br>
 Graduating in Computer Science at Federal University of São Carlos (UFSCar) [2025 - 2030(expected)]<br>
 Currently working on side projects.<br>
 
