@@ -29,4 +29,4 @@ Currently working on side projects.<br>
 ---
 
 **Location:** São Carlos, SP, Brazil <br>
-**Contact:** hadriangabrielpereira@gmail.com
+**Contact:** hadriangabriel.trsp@gmail.com
