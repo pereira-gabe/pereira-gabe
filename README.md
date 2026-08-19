@@ -25,6 +25,7 @@ Currently working on side projects.<br>
 - RISC-V Architecture
 - Compiler and Interpreter Programming
 - Operating Systems (*Operating Systems: Design and Implementation*, 2nd Ed. - Andrew S. Tanenbaum & Albert S. Woodhull - PT-BR Version)
+- Microcontroller programming (esp32, Pi Pico, arduino, etc)
 
 ---
 
