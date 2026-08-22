@@ -24,7 +24,7 @@ Currently working on side projects.<br>
 - Python
 - RISC-V Architecture
 - Compiler and Interpreter Programming
-- Microcontroller programming (esp32, Pi Pico, arduino, etc)
+- Microcontroller and IOT projects (esp32, Pi Pico, arduino, etc)
 - Operating Systems (*Operating Systems: Design and Implementation*, 2nd Ed. - Andrew S. Tanenbaum & Albert S. Woodhull - PT-BR Version)
 
 ---
