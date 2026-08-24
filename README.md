@@ -1,6 +1,6 @@
 # Hadrian Gabriel Pereira
 
-Graduating in Computer Science at Federal University of São Carlos (UFSCar) [2025 - 2030(expected)]<br>
+B.Sc. in Computer Science at Federal University of São Carlos (UFSCar) [2025 - 2030(expected)]<br>
 Currently working on side projects.<br>
 
 ---
