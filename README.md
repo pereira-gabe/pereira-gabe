@@ -31,7 +31,7 @@ Currently working on side projects.<br>
 
 ## Currently Developing
 - **Embedded IoT Monitor:** ESP32-based WiFi scanner and environment alert system with LCD 16x2 and active buzzer integration.
-- **SECOMP UFSCar Web Platform (XIV Edition):** Frontend refactor and UI/UX modernization using React, Next.js, TypeScript, and Tailwind CSS.
+- **SECOMP UFSCar Web Platform (XIV Edition):** Full-Stack development featuring frontend refactor and UI/UX modernization using React, Next.js, TypeScript, and Tailwind CSS, alongside backend maintenance.
 
 **Location:** São Carlos, SP, Brazil <br>
 **Contact:** hadriangabriel.trsp@gmail.com
